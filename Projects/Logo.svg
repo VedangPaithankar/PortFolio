@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 432 432">
+  <g id="Logo" transform="translate(-1264 -3273)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="216" cy="216" r="216" transform="translate(1264 3273)" fill="#ffec53"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="206" cy="206.5" rx="206" ry="206.5" transform="translate(1274 3282)" fill="#121212"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="201" cy="202" rx="201" ry="202" transform="translate(1279 3287)" fill="#ffec53"/>
+    <text id="Foodys_Paradise" data-name="Foodys
+Paradise" transform="translate(1485 3464)" fill="#121212" font-size="97" font-family="SketchitMeansSketchit, Sketchit Means Sketchit"><tspan x="-131.031" y="0">Foodys</tspan><tspan x="-160.585" y="112">Paradise</tspan></text>
+  </g>
+</svg>
